@@ -11,8 +11,8 @@ void Main_Menu(Hotel& hotel1);
 int main()
 {
 
-	Hotel hotel1("Chika & Sons", 100);
-	hotel1.set_description("This is Chika And Sons Hotel. We Offer Hospitality Second To No one. We are the PARENT Hotel!");
+	Hotel hotel1("PSC Hotels", 100);
+	hotel1.set_description("This is PSC Hotel. We Offer Hospitality Second To No one. We are the PARENT Hotel!");
 	hotel1.set_type("4 STAR LUXURY HOTEL");
 
 
